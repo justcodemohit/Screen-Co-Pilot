@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Screen Copilot AI",
   "version": "1.0",
-  "description": "A floating AI assistant that watches your screen and answers questions about what's on it, live.",
+  "description": "A floating AI assistant that monitor your screen and answers questions about what's on it, live.",
   "permissions": ["storage", "tabs"],
   "host_permissions": [
     "https://api.anthropic.com/*",
